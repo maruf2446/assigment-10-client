@@ -115,14 +115,14 @@ const LogIn = () => {
           onClick={handelGoogleLogin}
           className="text font-bold text-white btn border-0  bg-slate-800 text-center my-4 w-full"
         >
-          <FaGoogle className="text-2xl mr-2"></FaGoogle>
+          {/* <FaGoogle className="text-2xl mr-2"></FaGoogle> */}
           Login with Google
         </button>
         <button
           onClick={handelGithubLogin}
           className="text font-bold text-white btn border-0  bg-slate-800 text-center my-2 w-full"
         >
-          <FaGithub className="text-2xl mr-2"></FaGithub>
+          {/* <FaGithub className="text-2xl mr-2"></FaGithub> */}
           Login with GitHub
         </button>
       </div>

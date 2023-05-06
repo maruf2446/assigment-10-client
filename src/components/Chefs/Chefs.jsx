@@ -5,7 +5,7 @@ const Chefs = () => {
   const [allData, AllSetData] = useState([]);
 
   useEffect(() => {
-    fetch("https://server-chef-hunter.vercel.app/chefs")
+    fetch("https://my-first-server-jkjoy99.vercel.app/chefs")
       .then((res) => res.json())
       .then((data) => AllSetData(data))
       .catch((error) => {
@@ -27,7 +27,7 @@ const Chefs = () => {
         {allData.map((data) => (
           <SinglesChefs key={data.id} data={data}></SinglesChefs>
         ))}
-      </div>
+      </div> 
     </>
   );
 };
