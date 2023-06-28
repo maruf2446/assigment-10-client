@@ -8,7 +8,7 @@ import "@smastrom/react-rating/style.css";
 const ViewRecipes = () => {
   const recipeData = useLoaderData();
 
-  const { chef_picture, chef_name } = recipeData;
+  const { chef_picture, chef_name, num_recipes } = recipeData;
   const { recipes } = recipeData;
 
   // console.log(recipes);

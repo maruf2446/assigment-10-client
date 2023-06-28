@@ -5,11 +5,8 @@ const Banner = () => {
   return (
     <div className="banner_img">
       <div className="banner-content">
-        <img
-          className="m-auto"
-          src="https://i.ibb.co/rbSBY8S/foody-wpfoody.png"
-          alt=""
-        />
+        <h2 className="text-8xl bg-blue-600 italic">Good Food...<br />Good Feeling...</h2>
+        
         <p className="text-2xl mt-16 leading-relaxed">
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Praesentium
           corrupti ea tempore eos, dolorem corporis fugiat. Saepe sunt, neque.

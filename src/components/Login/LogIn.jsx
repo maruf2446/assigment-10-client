@@ -12,6 +12,7 @@ import {
 } from "firebase/auth";
 import app from "../../Firebase/Firebase.config";
 
+
 const googleProvider = new GoogleAuthProvider();
 const gitHubProvider = new GithubAuthProvider();
 const auth = getAuth(app);
@@ -106,7 +107,7 @@ const LogIn = () => {
           value="login"
         />
         <p className="my-5 text-black text-2xl text-center">
-          Don't have an Account?{" "}
+          Don't have an Account Please?{" "}
           <span className="text-red-400 font-bold">
             <Link to="/singUp">SingUp</Link>
           </span>

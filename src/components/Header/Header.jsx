@@ -23,7 +23,7 @@ const Header = () => {
             <div className="flex justify-center items-center">
               <img
                 className="h-16 w-16 mr-3 rounded-full"
-                src="https://as2.ftcdn.net/v2/jpg/01/99/85/83/1000_F_199858387_FymKsmjdD0Ss2el9eIstS7Y4UaBg5F6B.jpg"
+                src="https://i.ibb.co/bzJxTjk/illustrations-cute-cartoon-female-chef-260nw-1520814218.webp"
                 alt=""
               />
               <img

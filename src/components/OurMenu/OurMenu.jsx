@@ -21,14 +21,14 @@ const OurMenu = () => {
             <figure>
               <img
                 src={
-                  "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+                  "https://img.taste.com.au/u6QNJNgV/taste/2016/11/roast-pumpkin-and-chorizo-pizzas-111258-1.jpg"
                 }
                 alt="Shoes"
               />
             </figure>
             <div className="card-body">
               <h2 className="card-title">
-                <span className="text-3xl text-orange-500">Hamburger!</span>
+                <span className="text-3xl text-orange-500">Pizza!</span>
                 <div className="badge badge-secondary text-white bg-orange-500">
                   NEW
                 </div>
@@ -47,14 +47,14 @@ const OurMenu = () => {
             <figure>
               <img
                 src={
-                  "https://images.pexels.com/photos/2122280/pexels-photo-2122280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                  "https://2.bp.blogspot.com/-BsEhAwJSdG8/T2l6gmAg_BI/AAAAAAAAAfE/sIMQgJAai4s/s1600/pkf.jpg"
                 }
                 alt="Shoes"
               />
             </figure>
             <div className="card-body">
               <h2 className="card-title">
-                <span className="text-3xl text-orange-500">Finger Food!</span>
+                <span className="text-3xl text-orange-500">Kulfi Ice Cream!</span>
                 <div className="badge badge-secondary bg-orange-500 text-white p-2">
                   Regular Dish
                 </div>
@@ -80,7 +80,7 @@ const OurMenu = () => {
             </figure>
             <div className="card-body">
               <h2 className="card-title">
-                <span className="text-3xl text-orange-500">Jar Salad!</span>
+                <span className="text-3xl text-orange-500">Nan Roti!</span>
                 <div className="badge badge-secondary bg-orange-500 text-white p-2">
                   Regular Dish
                 </div>
@@ -99,14 +99,14 @@ const OurMenu = () => {
             <figure>
               <img
                 src={
-                  "https://images.pexels.com/photos/2365945/pexels-photo-2365945.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                  "https://images.food52.com/vCazOiXmvwnOV6a2orUWTQdF5fc=/750x500/e09162d1-a382-495c-8079-c1dc06a6a9e7--2020-0303_our-best-tuna-salad_3x2_ty-mecham.jpg"
                 }
                 alt="Shoes"
               />
             </figure>
             <div className="card-body">
               <h2 className="card-title">
-                <span className="text-3xl text-orange-500">Sandwich!!</span>
+                <span className="text-3xl text-orange-500">Bon roti & Salad!</span>
                 <div className="badge badge-secondary text-white bg-orange-500">
                   NEW
                 </div>
@@ -132,7 +132,7 @@ const OurMenu = () => {
             </figure>
             <div className="card-body">
               <h2 className="card-title">
-                <span className="text-3xl text-orange-500">New Salads!</span>
+                <span className="text-3xl text-orange-500">Butter Gee!</span>
                 <div className="badge badge-secondary bg-orange-500 text-white p-2">
                   Regular Dish
                 </div>
@@ -151,14 +151,14 @@ const OurMenu = () => {
             <figure>
               <img
                 src={
-                  "https://images.pexels.com/photos/2132942/pexels-photo-2132942.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                  "https://recipesofhome.com/wp-content/uploads/2020/03/vegetable-soup-recipe-735x490.jpg"
                 }
                 alt="Shoes"
               />
             </figure>
             <div className="card-body">
               <h2 className="card-title">
-                <span className="text-3xl text-orange-500">Quesadillas!</span>
+                <span className="text-3xl text-orange-500">Shoup & Fry!</span>
                 <div className="badge badge-secondary text-white bg-orange-500">
                   NEW
                 </div>

@@ -5,7 +5,7 @@ const Chefs = () => {
   const [allData, AllSetData] = useState([]);
 
   useEffect(() => {
-    fetch("https://my-first-server-jkjoy99.vercel.app/chefs")
+    fetch("https://assigment-10-server.vercel.app/chefs")
       .then((res) => res.json())
       .then((data) => AllSetData(data))
       .catch((error) => {
@@ -16,8 +16,8 @@ const Chefs = () => {
   return (
     <>
       <div className="">
-        <h2 className="text-7xl font-bold text-center text-orange-500 mt-20">
-          Switzerland
+        <h2 className="text-8xl font-bold text-center text-orange-500 mt-20">
+          Dubai
         </h2>
         <p className="text-4xl text-orange-400 font-bold text-center">
           Our Chefs
